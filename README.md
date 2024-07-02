@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @AhmedMohamed2-tech
+# 👋 Hi, I’m Ahmed Mohamed
 
 - 👀 I’m interested in software development, cloud computing, and cybersecurity. I love exploring new technologies and staying up-to-date with the latest advancements in the tech world.
 - 🌱 I’m currently learning C#, .NET, Python, and cloud application development. I'm also strengthening my skills in machine learning and artificial intelligence.
